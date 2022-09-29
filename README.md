@@ -1,5 +1,9 @@
 # Student Management system
 
+## About
+
+This is a student management system random students and the details of the email, grades, and a time there have been registered at the University.
+
 ## Available Scripts
 
 In the project directory, you can run:
